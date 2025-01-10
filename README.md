@@ -1,4 +1,4 @@
-Highlights:
+# Highlights:
 
 Techniques: Hough Circle Transform, Canny Edge Detection, Morphological Operations
 Tools: Python, OpenCV, NumPy, Matplotlib
